@@ -1,0 +1,15 @@
+{
+  "short_name": "E-MAALI",
+  "name": "E-MAALI",
+  "icons": [
+    {
+      "src":"images/android-icon-192x192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#536878",
+  "display": "standalone"
+}
